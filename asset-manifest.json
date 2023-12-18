@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/:/bulatovvna.github.io/toDoApp/static/css/main.3443ff74.css",
-    "main.js": "/:/bulatovvna.github.io/toDoApp/static/js/main.7c168abc.js",
-    "index.html": "/:/bulatovvna.github.io/toDoApp/index.html",
-    "main.3443ff74.css.map": "/:/bulatovvna.github.io/toDoApp/static/css/main.3443ff74.css.map",
-    "main.7c168abc.js.map": "/:/bulatovvna.github.io/toDoApp/static/js/main.7c168abc.js.map"
+    "main.css": "/toDoApp/static/css/main.3443ff74.css",
+    "main.js": "/toDoApp/static/js/main.7c168abc.js",
+    "index.html": "/toDoApp/index.html",
+    "main.3443ff74.css.map": "/toDoApp/static/css/main.3443ff74.css.map",
+    "main.7c168abc.js.map": "/toDoApp/static/js/main.7c168abc.js.map"
   },
   "entrypoints": [
     "static/css/main.3443ff74.css",
