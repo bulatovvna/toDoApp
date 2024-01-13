@@ -9,7 +9,6 @@ function App() {
   const start_todo = [
     {id: 1, title: 'Помыть руки', complited: true},
     {id: 2, title: 'Сделать зарядку', complited: false},
-    {id: 3, title: 'Наконец изучить React', complited: true}
   ]
 
   const [todos, setTodos] = useState(start_todo)

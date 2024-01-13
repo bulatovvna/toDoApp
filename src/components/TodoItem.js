@@ -9,7 +9,7 @@ function TodoItem(props){
     return (
         <div 
             className="container" 
-            style={{backgroundColor: (complited) ? 'green' : 'red'}}
+            style={{backgroundColor: (complited) ? 'rgb(10, 182, 53)' : 'rgb(239, 50, 50'}}
             onDoubleClick={() => deleteTodo(id)}
             onClick={() => changeTodo(id)}
         > 

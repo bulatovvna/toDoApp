@@ -11,7 +11,8 @@ function AddItem(props){
     
     return (
         <div className="input_elem">
-            <input onKeyDown={handler}/>
+            <input onKeyDown={handler} placeholder="Помыть полы"/>
+            <p className="info">Одно нажатие по заданию - изменение состояния,два нажания - удаление из списка</p>
         </div>
     )
     
